@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Bvchethan
-- 👀 I’m interested in web development coding ect
-- 🌱 I’m currently learning bachelor of computer applications 
-- 
-- 📫 How to reach me ...
+### 👋 Hi, I’m Chethan (@Bvchethan)
 
-<!---
-Bvchethan/Bvchethan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m passionate about **Web Development**, **Coding**, and all things tech.
+- 🌱 I’m currently pursuing a **Master of Computer Applications (MCA)**.
+- 💡 Constantly exploring new technologies and improving my development skills.
+- 💻 Currently learning **Java**, **JavaScript**, **React**, and **Git/GitHub**.
+- 📫 Reach me at: **bvchethan123@gmail.com**
+
+---
+
+> _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
