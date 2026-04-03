@@ -2,7 +2,9 @@ Hi, I'm Chethan
 
 💻 Aspiring Software Developer
 🚀 Currently working at TCS / pursuing MCA (jain uni)
+
 ⚡ Tech
+
 Java  • JavaScript
 React • Spring Boot • JWT
 PostgreSQL • Linux • Nginx
