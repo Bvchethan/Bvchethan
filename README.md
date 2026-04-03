@@ -1,12 +1,11 @@
 Hi, I'm Chethan
 
 💻 Aspiring Software Developer
-🚀 Currently working at TCS (Apple Maps project)
-
+🚀 Currently working at TCS / pursuing MCA (jain uni)
 ⚡ Tech
-Java • Python • JavaScript
+Java  • JavaScript
 React • Spring Boot • JWT
-MySQL • Linux • Nginx
+PostgreSQL • Linux • Nginx
 
 :-- bvchethan1@gmail.com
 
